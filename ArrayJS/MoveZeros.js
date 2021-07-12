@@ -8,6 +8,7 @@ Example 2:
 Input: nums = [0]
 Output: [0] */
 
+
 // Shift array items one place to the left
 function shiftArrayItems(nums, index) {
     for (let i = index; i < nums.length-1; i++) {
@@ -20,6 +21,26 @@ function placeZeroAtLastIndex(nums) {
     return nums;
 }
 
+// O(n) solution
+var moveZeroes = function(nums) {
+    let count = 0;
+
+    // Traverse array if element is not equal to 0 then replace element
+    // at index count with this element
+    for (let i = 0; i < nums.length; i++) {
+        if (nums[i] != 0) {
+            nums[count++] = nums[i];
+        }
+    }
+
+    while (count < nums.length) {
+        nums[count++] = 0;
+    }
+    
+    return nums;
+};
+
+/* O(n*n) solution
 var moveZeroes = function(nums) {
     let index = nums.length - 1;
     if (nums === undefined || nums.length === 0) {
@@ -39,6 +60,7 @@ var moveZeroes = function(nums) {
         }
     }
     return nums;
-};
+}; */
 
-console.log(moveZeroes([0,1,0,3,12])); // Qudratic O(n*n)
+
+console.log(moveZeroes([0,1,0,3,12])); 
