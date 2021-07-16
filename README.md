@@ -9,6 +9,4 @@
 - [LinkedList](LinkedList)
 - [Stack And Queue](Stack_Queue)
 - [Tree](Tree)
-
-
 - [Problems](_Problems_)
