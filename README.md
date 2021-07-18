@@ -12,5 +12,4 @@
 ### Algorithms -
 - [Recursion](Recursion)
 - [Sorting](Sorting)
-
-- [Problems](_Problems_)
+### Problem Solving - [Problems](_Problems_)
