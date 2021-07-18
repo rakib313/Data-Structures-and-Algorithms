@@ -12,4 +12,4 @@ function reverseStringRecursive (str) {
     }
   }
   
-console.log(reverseStringRecursive('Rakib'));
+console.log(reverseStringRecursive('Rakib')); // O(2^n)

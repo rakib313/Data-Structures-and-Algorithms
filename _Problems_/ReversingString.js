@@ -17,3 +17,13 @@ function reverse(str) {
 }
 
 console.log(reverse("Hi my name is Rakib"));
+
+function reverseStringRecursive (str) {
+    if (str === "") {
+      return "";
+    } else {
+      return reverseStringRecursive(str.substr(1)) + str.charAt(0);
+    }
+  }
+  
+console.log(reverseStringRecursive('Rakib')); // O(2^n)
