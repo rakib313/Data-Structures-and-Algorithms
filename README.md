@@ -11,5 +11,6 @@
 - [Graph](Graph)
 ### Algorithms -
 - [Recursion](Recursion)
-- 
+- [Sorting](Sorting)
+
 - [Problems](_Problems_)
