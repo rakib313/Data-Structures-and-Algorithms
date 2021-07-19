@@ -1,0 +1,13 @@
+W:\GitRepo\Data_Structures\Sorting\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.exe
+W:\GitRepo\Data_Structures\Sorting\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.deps.json
+W:\GitRepo\Data_Structures\Sorting\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.json
+W:\GitRepo\Data_Structures\Sorting\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
+W:\GitRepo\Data_Structures\Sorting\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
+W:\GitRepo\Data_Structures\Sorting\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
+W:\GitRepo\Data_Structures\Sorting\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csprojAssemblyReference.cache
+W:\GitRepo\Data_Structures\Sorting\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+W:\GitRepo\Data_Structures\Sorting\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+W:\GitRepo\Data_Structures\Sorting\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache
+W:\GitRepo\Data_Structures\Sorting\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
+W:\GitRepo\Data_Structures\Sorting\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
+W:\GitRepo\Data_Structures\Sorting\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache
