@@ -1,0 +1,13 @@
+W:\GitRepo\Data_Structures\Sorting\MargeSort\bin\Debug\netcoreapp3.1\MargeSort.exe
+W:\GitRepo\Data_Structures\Sorting\MargeSort\bin\Debug\netcoreapp3.1\MargeSort.deps.json
+W:\GitRepo\Data_Structures\Sorting\MargeSort\bin\Debug\netcoreapp3.1\MargeSort.runtimeconfig.json
+W:\GitRepo\Data_Structures\Sorting\MargeSort\bin\Debug\netcoreapp3.1\MargeSort.runtimeconfig.dev.json
+W:\GitRepo\Data_Structures\Sorting\MargeSort\bin\Debug\netcoreapp3.1\MargeSort.dll
+W:\GitRepo\Data_Structures\Sorting\MargeSort\bin\Debug\netcoreapp3.1\MargeSort.pdb
+W:\GitRepo\Data_Structures\Sorting\MargeSort\obj\Debug\netcoreapp3.1\MargeSort.csprojAssemblyReference.cache
+W:\GitRepo\Data_Structures\Sorting\MargeSort\obj\Debug\netcoreapp3.1\MargeSort.AssemblyInfoInputs.cache
+W:\GitRepo\Data_Structures\Sorting\MargeSort\obj\Debug\netcoreapp3.1\MargeSort.AssemblyInfo.cs
+W:\GitRepo\Data_Structures\Sorting\MargeSort\obj\Debug\netcoreapp3.1\MargeSort.csproj.CoreCompileInputs.cache
+W:\GitRepo\Data_Structures\Sorting\MargeSort\obj\Debug\netcoreapp3.1\MargeSort.dll
+W:\GitRepo\Data_Structures\Sorting\MargeSort\obj\Debug\netcoreapp3.1\MargeSort.pdb
+W:\GitRepo\Data_Structures\Sorting\MargeSort\obj\Debug\netcoreapp3.1\MargeSort.genruntimeconfig.cache
