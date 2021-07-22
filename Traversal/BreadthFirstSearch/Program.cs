@@ -28,7 +28,28 @@ namespace BreadthFirstSearch
             }
             return list;
         }
-        
+        //Recurcive
+        public static List<int> breathFirstSearchR(Queue<Node> queue, List<int> list)
+        {
+            if (queue.Count == 0)
+            {
+                return list;
+            }
+
+            var currentNode = queue.Dequeue();
+            list.Add(currentNode.value);
+            if (currentNode.left != null)
+            {
+                queue.Enqueue(currentNode.left);
+            }
+
+            if (currentNode.right != null)
+            {
+                queue.Enqueue(currentNode.right);
+            }
+
+            return breathFirstSearchR(queue, list);
+        }
         static void Main(string[] args)
         {
             BinarySearchTree tree = new BinarySearchTree();
@@ -47,6 +68,16 @@ namespace BreadthFirstSearch
             }
             Console.WriteLine();
 
+            //Recurcive call
+            List<int> list = new List<int>();
+            Queue<Node> queue = new Queue<Node>();
+            queue.Enqueue(tree.root);
+            var result2 = breathFirstSearchR(queue, list);
+            foreach (var item in result2)
+            {
+                Console.Write(item.ToString() + " ");
+            }
+            Console.WriteLine();
         }
     }
     
