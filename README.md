@@ -13,4 +13,5 @@
 - [Recursion](Recursion)
 - [Sorting](Sorting)
 - [Traversal](Traversal)
+- [Dynamic_Programming](Dynamic_Programming)
 ### Problem Solving - [Problems](_Problems_)
