@@ -65,17 +65,17 @@ class BinarySearchTree {
 
 function traversePreOrder(node, list){
   list.push(node.value);
-  if(node.left) {
+  if(node.left != null) {
     traversePreOrder(node.left, list);
   }
-  if(node.right) {
+  if(node.right != null) {
     traversePreOrder(node.right, list);
   }
   return list;
 }
 
 function traverseInOrder(node, list){
-  if(node.left) {
+  if(node.left != null) {
     traverseInOrder(node.left, list);
   }
   list.push(node.value);
