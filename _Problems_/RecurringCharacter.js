@@ -28,7 +28,7 @@ let ans = firstRecurringCharacter(input) // Time -> O(n) solution, Space O(n)
 console.log(ans);
 
 
-// 
+// Best case increased using sort which increases efficiency
 function firstRecurringCharacter2(input) {
     input.sort((a,b) => {
         return a-b;
